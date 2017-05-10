@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder
+END
+MetabReactionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/MetabReactionConverter.java
+END
+ResponseTaskXStreamEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/ResponseTaskXStreamEncoder.java
+END
+ResponseCTaskXStreamEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/ResponseCTaskXStreamEncoder.java
+END
+TaskConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/TaskConverter.java
+END
+CTaskBeanXMLResponseEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/CTaskBeanXMLResponseEncoder.java
+END
+CompoundConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/CompoundConverter.java
+END
+NcibiXStreamCompoundEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/NcibiXStreamCompoundEncoder.java
+END
+NcibiXStreamReactionEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/1414/chipenrichweb/ws-ncibi/src/main/java/org/ncibi/ws/mimi/encoder/NcibiXStreamReactionEncoder.java
+END
